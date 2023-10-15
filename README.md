@@ -1,1 +1,2 @@
-# esgi_quantum
+# Projet d'Énigme de la Porte au Trésor avec les Gardiens en Utilisant Qiskit
+Ce projet utilise Qiskit, un framework de calcul quantique open source, pour résoudre l'énigme de la porte au trésor avec deux gardiens : l'un ment toujours et l'autre dit toujours la vérité. Le but du projet est de créer un circuit quantique qui représente cette énigme, de simuler le circuit et d'afficher les probabilités de chaque cas sur un histogramme.
